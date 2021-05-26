@@ -1,0 +1,22 @@
+{
+  "name": "shaggyportfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReuelSagrado20/Shaggyportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReuelSagrado20/Shaggyportfolio/issues"
+  },
+  "homepage": "https://github.com/ReuelSagrado20/Shaggyportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
